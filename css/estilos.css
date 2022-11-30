@@ -71,3 +71,14 @@ video {
     margin-left: .5em;
   }
   
+  table tr th{
+    color: whitesmoke;
+  }
+
+  table tr td{
+color: whitesmoke;
+  }
+
+  tr, th, td {
+    border: whitesmoke 4px solid;
+  }
